@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body data-rsssl=1>
+
+<h1>Teknew-Training</h1>
+
+<?php
+echo "Hello TeknewlogyGroup DevOps Teams";
+?>
+
+</body>
+</html>
